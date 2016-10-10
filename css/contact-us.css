@@ -1,0 +1,12 @@
+.banner{height: 512px;border-top:5px solid #efefef; }
+.banner img{height: 512px;width: 100%;}
+.book{width: 1200px;margin: 0 auto;}
+.contact{padding-top: 20px;background: url("../images/contact.png") no-repeat 0 20px;height: 32px;line-height: 32px;padding-left: 42px;font-size: 20px;font-weight: lighter;}
+.book p{padding-top:10px;font-size: 17px;}
+.form{padding-top: 20px;}
+.form input{width: 367px;height: 46px;float:left;border: 2px solid #f8f8f8;line-height: 46px;padding-left: 9px;font-size:13px; }
+.form-center{margin: 0 30px}
+.form-top {padding: 30px 0}
+.form-top textarea {width:1187px; height: 146px; border:2px solid #f8f8f8; padding-left: 9px; font-size: 16px; line-height: 30px; resize: none}
+.form-bottom input{width: 281px;height: 47px;background-color: #ff5842;text-align: center;color: #fff;font-size: 17px;border: 0 none}
+
